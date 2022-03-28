@@ -1,0 +1,10 @@
+body {
+	font-family: "Noto Sans JP", sans-serif;
+}
+
+img {
+	width: 10%;
+}
+.css__label {
+	cursor: pointer;
+}
